@@ -1,5 +1,7 @@
 # changAndRoberts-Spring-
 
+This is a Java Spring application created with Gradle.
+
 This is an application that simulates the CHANG AND ROBERTS nwtworking algorithm. First, a trigger call is started.
 The nodes run on ports: **8081,8082,8083** , and the tower control on 8090.
 
